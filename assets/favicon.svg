@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" aria-label="Знак Практической автоматизации">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#214955"/>
+      <stop offset="1" stop-color="#102b39"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b8f4dc"/>
+      <stop offset="1" stop-color="#78d9d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="12" fill="url(#base)"/>
+  <rect x="1" y="1" width="46" height="46" rx="11" fill="none" stroke="#7bb7ad" stroke-opacity=".45"/>
+  <rect x="10" y="10" width="13" height="13" rx="3.5" fill="none" stroke="#a2e9d7" stroke-width="2.3"/>
+  <path d="M23 16.5h3.1c3.9 0 6 2.2 6 6.1V25" fill="none" stroke="#9ee8dc" stroke-width="2.6" stroke-linecap="round"/>
+  <rect x="25" y="25" width="14" height="14" rx="4" fill="url(#accent)"/>
+  <path d="M29.5 32h5" stroke="#16404b" stroke-width="2.2" stroke-linecap="round"/>
+</svg>
